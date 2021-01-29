@@ -1,0 +1,3 @@
+activity_code,activity_description
+1,Viewed
+2,Purchased

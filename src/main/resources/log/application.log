@@ -1,0 +1,12 @@
+2021-01-28 19:51:10 INFO  DriverMain:24 - Loading application properties
+2021-01-28 19:51:10 INFO  ApplicationPropertyLoader:27 - Loading application properties from config file ./src/main/resources/config/config.properties
+2021-01-28 19:51:10 INFO  ApplicationPropertyLoader:32 - Application config loaded successfully
+2021-01-28 19:51:10 INFO  DriverMain:27 - Application properties loaded successfully
+2021-01-28 19:51:10 INFO  DriverMain:29 - Requesting for Spark session
+2021-01-28 19:51:12 INFO  DriverMain:31 - Spark session created successfully
+2021-01-28 19:51:12 INFO  DriverMain:35 - Requesting for an instance of JSONReader
+2021-01-28 19:51:15 INFO  DriverMain:53 - Requesting for an instance of XMLReader
+2021-01-28 19:51:15 INFO  DriverMain:58 - Requesting for an instance of CSVReader
+2021-01-28 19:51:16 INFO  DriverMain:70 - Performing Spark SQL join to lookup activity description
+2021-01-28 19:51:16 INFO  DriverMain:80 - Writing resultant dataset to output path
+2021-01-28 19:51:16 INFO  DriverMain:82 - Application completed successfully

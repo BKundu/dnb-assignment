@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity>
+    <userName>Sam</userName>
+    <websiteName>xyz.com</websiteName>
+    <activityTypeCode>002</activityTypeCode>
+    <loggedInTime>2020-01-13</loggedInTime>
+    <number_of_views>10</number_of_views>
+</activity>
